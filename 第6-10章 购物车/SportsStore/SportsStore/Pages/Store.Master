@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Store.master.cs"
+     Inherits="SportsStore.Pages.Store" %>
+
+<!DOCTYPE html>
+
+<!--窗体用户控件应用于母版页-->
+<%--<%@ Register TagPrefix="SS" TagName="CartLinks" Src="~/Controls/CategoryList.ascx" %>
+<%@ Register TagPrefix="CS" TagName="CartSummary" Src="~/Controls/CartSummary.ascx" %>--%>
+<!--在web.config合用用户控件声明-->
+<!--asp:开头的 是Microsoft服务器控件-->
+
+        
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>在线商城(惠大)</title>
+    <link rel="stylesheet" href="/Content/Styles.css" />
+    <%:  System.Web.Optimization.Scripts.Render("~/bundles/validation") %>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="header">
+            <CS:CartSummary runat="server" />
+            <div class="title">惠大在线商城</div>
+        </div>
+        <div id="categories">
+            <SS:CartLinks runat="server" />
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="bodyContent" runat="server">
+            <!--母版ID与之相同：ContentPlaceHolderID="bodyContent" -->
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,21 @@
+F:\ASP.NET(精通)\第6-10章\SportsStore\SportsStore\bin\SportsStore.dll.config
+F:\ASP.NET(精通)\第6-10章\SportsStore\SportsStore\bin\SportsStore.dll
+F:\ASP.NET(精通)\第6-10章\SportsStore\SportsStore\bin\SportsStore.pdb
+F:\ASP.NET(精通)\第6-10章\SportsStore\SportsStore\obj\Debug\SportsStore.csprojResolveAssemblyReference.cache
+F:\ASP.NET(精通)\第6-10章\SportsStore\SportsStore\obj\Debug\SportsStore.dll
+F:\ASP.NET(精通)\第6-10章\SportsStore\SportsStore\obj\Debug\SportsStore.pdb
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\bin\SportsStore.dll.config
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\bin\SportsStore.dll
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\bin\SportsStore.pdb
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\bin\EntityFramework.dll
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\bin\EntityFramework.xml
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\bin\System.Data.Entity.4.0.0.0.Fakes.xml
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\obj\Debug\SportsStore.dll
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\obj\Debug\SportsStore.pdb
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\bin\System.Data.Entity.4.0.0.0.Fakes.fakesconfig
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\bin\System.Data.Entity.4.0.0.0.Fakes.dll
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\bin\Antlr3.Runtime.dll
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\bin\System.Web.Optimization.dll
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\bin\WebGrease.dll
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\obj\Debug\SportsStore.csprojFakesResolveAssemblyReference.cache
+F:\ASP.NET(精通)\第6-10章 购物车\SportsStore\SportsStore\obj\Debug\SportsStore.csprojResolveAssemblyReference.cache

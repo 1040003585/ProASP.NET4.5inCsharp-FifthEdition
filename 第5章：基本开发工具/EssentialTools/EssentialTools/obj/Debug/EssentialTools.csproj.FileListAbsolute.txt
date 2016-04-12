@@ -1,0 +1,6 @@
+F:\ASP.NET(精通)\第5章：基本开发工具\EssentialTools\EssentialTools\bin\EssentialTools.dll.config
+F:\ASP.NET(精通)\第5章：基本开发工具\EssentialTools\EssentialTools\bin\EssentialTools.dll
+F:\ASP.NET(精通)\第5章：基本开发工具\EssentialTools\EssentialTools\bin\EssentialTools.pdb
+F:\ASP.NET(精通)\第5章：基本开发工具\EssentialTools\EssentialTools\obj\Debug\EssentialTools.csprojResolveAssemblyReference.cache
+F:\ASP.NET(精通)\第5章：基本开发工具\EssentialTools\EssentialTools\obj\Debug\EssentialTools.dll
+F:\ASP.NET(精通)\第5章：基本开发工具\EssentialTools\EssentialTools\obj\Debug\EssentialTools.pdb

@@ -1,0 +1,6 @@
+F:\ASP.NET(精通)\第4章：使用jQuery\UsingjQuery\UsingjQuery\bin\UsingjQuery.dll.config
+F:\ASP.NET(精通)\第4章：使用jQuery\UsingjQuery\UsingjQuery\bin\UsingjQuery.dll
+F:\ASP.NET(精通)\第4章：使用jQuery\UsingjQuery\UsingjQuery\bin\UsingjQuery.pdb
+F:\ASP.NET(精通)\第4章：使用jQuery\UsingjQuery\UsingjQuery\obj\Debug\UsingjQuery.csprojResolveAssemblyReference.cache
+F:\ASP.NET(精通)\第4章：使用jQuery\UsingjQuery\UsingjQuery\obj\Debug\UsingjQuery.dll
+F:\ASP.NET(精通)\第4章：使用jQuery\UsingjQuery\UsingjQuery\obj\Debug\UsingjQuery.pdb
